@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.deps.json
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.dll
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLag.5B63BB29.Up2Date
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.dll
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
+C:\Users\HP\Desktop\VillaProject\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll

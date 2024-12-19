@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEABC3E8-F841-42A8-9664-18D176F1C294}|WhiteLagoon.Web.csproj|c:\\users\\hp\\desktop\\villaproject\\whitelagoon.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEABC3E8-F841-42A8-9664-18D176F1C294}|WhiteLagoon.Web.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6612E-6A0B-40E3-A4EB-09C12ED51487}|..\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj|c:\\users\\hp\\desktop\\villaproject\\whitelagoon.application\\services\\implementation\\villaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77A0799-91FB-4BE7-8FCF-4D0685E0CBB5}|..\\WhiteLagoon.Infrastructure\\WhiteLagoon.Infrastructure.csproj|c:\\users\\hp\\desktop\\villaproject\\whitelagoon.infrastructure\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6612E-6A0B-40E3-A4EB-09C12ED51487}|..\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj|c:\\users\\hp\\desktop\\villaproject\\whitelagoon.application\\common\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601434C4-2DAF-4DC0-A84B-AED3764A1D35}|..\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj|c:\\users\\hp\\desktop\\villaproject\\whitelagoon.domain\\entities\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6612E-6A0B-40E3-A4EB-09C12ED51487}|..\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj|c:\\users\\hp\\desktop\\villaproject\\whitelagoon.application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "RelativeDocumentMoniker": "..\\WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "RelativeToolTip": "..\\WhiteLagoon.Domain\\Entities\\Amenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:53:41.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Application\\Common\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "..\\WhiteLagoon.Application\\Common\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Application\\Common\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "..\\WhiteLagoon.Application\\Common\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:50:42.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Infrastructure\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "..\\WhiteLagoon.Infrastructure\\Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Infrastructure\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "..\\WhiteLagoon.Infrastructure\\Repository\\BookingRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:39:41.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Application\\Services\\Implementation\\VillaService.cs",
+              "RelativeDocumentMoniker": "..\\WhiteLagoon.Application\\Services\\Implementation\\VillaService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Application\\Services\\Implementation\\VillaService.cs",
+              "RelativeToolTip": "..\\WhiteLagoon.Application\\Services\\Implementation\\VillaService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwH0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:33:48.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Web\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Web\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAD4v5MAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:20:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VillaProject\\WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\WhiteLagoon.Application\\Common\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:17:39.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
